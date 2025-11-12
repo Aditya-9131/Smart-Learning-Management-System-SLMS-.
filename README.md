@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LMS(Learning Management System )
 
 This repository contains the source code and implementation of a Learning Management System (LMS) developed using the MERN stack (MongoDB, Express.js, React, Node.js) along with Tailwind CSS and DaisyUI for styling, Cloudinary for managing media, and Razorpay for subscription management.
@@ -142,3 +143,7 @@ We welcome contributions to Learning Management System  Feel free to create pull
 ## Further-Support
 
 If you encounter any issues or have questions, feel free to raise them as GitHub issues, and we'll be happy to assist you.
+=======
+# Smart-Learning-Management-System-SLMS-.
+""Developed a MERN-based Smart Learning Management System integrating AI/ML for intelligent course management, automated enrollment, and progress tracking. Built responsive UI with React.js &amp; CSS, secure backend with Node.js, Express.js, MongoDB, JWT, Cloudinary, Razorpay, and AI-driven personalized learning.""
+>>>>>>> 66fe74122e2414a15c151b9bdc2ad4128d439cd4
