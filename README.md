@@ -3,9 +3,7 @@
 
 This repository contains the source code and implementation of a Learning Management System (LMS) developed using the MERN stack (MongoDB, Express.js, React, Node.js) along with Tailwind CSS and DaisyUI for styling, Cloudinary for managing media, and Razorpay for subscription management.
 
-## VIDEO 
 
-https://youtu.be/T8YZitqdlEY
 
 ## Table of Contents
 
@@ -30,12 +28,7 @@ The Learning Management System (LMS) is a web-based application that facilitates
 - Interactive user interface using React and Tailwind CSS
 - Subscription management with Razorpay (for premium content)
 
-## Admin Login Credentials
 
-By default, the LMS comes with an admin account. Use the following credentials to log in:
-
-- **Email-1:** `pgupta49@gmail.com`
-- **Password-1:** `123456789@Lms`
   
 ## User Login Credentials
 
@@ -48,9 +41,7 @@ By default, the LMS comes with an admin account. Use the following credentials t
 
  Clone the project 
 
-```bash
-git@github.com:Princegupta101/Larning-Management-System.git
-```
+
 
 ### Setup instruction  for Frontend
 
